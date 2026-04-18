@@ -1,2 +1,2 @@
 # DevOps-project-1
-Practice project for DevOps tools and automation workflows.
+End-to-end DevOps project for CI/CD automation using AWS and GitHub.
