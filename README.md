@@ -28,14 +28,16 @@ The primary objective is to gain practical experience in cloud infrastructure ma
 ## 📂 Repository Structure
 
 ```text
+## 📂 Repository Structure
+
+```text
 DevOps-project-1/
 │
 ├── Devops/
 │   └── README.md
 │
 ├── Docker/
-│   ├── README.md
-│   └── Docker implementation screenshots
+│   └── README.md
 │
 ├── Python/
 │   ├── app.js
@@ -50,8 +52,9 @@ DevOps-project-1/
 │   └── README.md
 │
 └── kubernates/
-    ├── README.md
-    └── Kubernetes cluster screenshot
+    └── README.md
+```
+
 ```
 
 ## ⚙️ Project Implementation
